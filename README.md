@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Arya, a third-year B.Tech Computer Science student at Graphic Era University in India. I have a robust skill set in programming and a deep understanding of software development. Specifically, I'm proficient in Java, Python, and C++. My primary areas of interest revolve around machine learning and web development.
+I'm Arya, a third-year B.Tech Computer Science student at Graphic Era University(@GEU) in India. I have a robust skill set in programming and a deep understanding of software development. Specifically, I'm proficient in Java, Python, and C++. My primary areas of interest revolve around machine learning and web development.
 
 
 ## 🌐 Socials:
